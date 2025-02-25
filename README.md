@@ -1,15 +1,49 @@
-# Professional Portfolio
+# Jared Briggs - Professional Portfolio
 
 <div align="right">
-  <a href="#professional-portfolio">Back to Top ↑</a>
+  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
 </div>
 
 ## Quick Navigation
-- [Personal Website](#personal-website)
-- [Education and Awards](#education-and-awards)
-- [Latin Honors Portfolio](#latin-honors-portfolio)
-- [Professional Experience](#professional-experience)
-- [Skills](#skills)
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+
+  <a href="#personal-website" 
+     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
+     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
+     transition: all 0.3s ease; margin: 5px;">
+     Personal Website
+  </a>
+
+  <a href="#education-and-awards" 
+     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
+     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
+     transition: all 0.3s ease; margin: 5px;">
+     Education & Awards
+  </a>
+
+  <a href="#latin-honors-portfolio" 
+     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
+     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
+     transition: all 0.3s ease; margin: 5px;">
+     Latin Honors
+  </a>
+
+  <a href="#professional-experience" 
+     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
+     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
+     transition: all 0.3s ease; margin: 5px;">
+     Experience
+  </a>
+
+  <a href="#skills" 
+     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
+     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
+     transition: all 0.3s ease; margin: 5px;">
+     Skills
+  </a>
+
+</div>
 
 ---
 
@@ -17,20 +51,21 @@
 
 <div align="center">
 
-![Portfolio Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Welcome+to+My+Portfolio)
+![Portfolio Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Jared+Briggs+-+Data+Analytics+%26+AI+Specialist)
 
 </div>
 
-Welcome to my professional portfolio! I am a dedicated [your profession] passionate about [your interests/specialization]. This README serves as a comprehensive overview of my academic and professional journey.
+Welcome to my professional portfolio! I am a data analytics and AI specialist with experience in consulting, analysis, and software development. Currently pursuing my Bachelor's degree in Business Information & Analytics at the University of Denver with a perfect 4.0 Major GPA, I've already established myself professionally through consulting work, data analysis, and creating successful online content.
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-briggs-312704257/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@JaredBriggs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1jaredbriggs@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:7024672204)
 
 <div align="right">
-  <a href="#professional-portfolio">Back to Top ↑</a>
+  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
 </div>
 
 ---
@@ -38,27 +73,29 @@ Welcome to my professional portfolio! I am a dedicated [your profession] passion
 ## Education and Awards
 
 ### Education
-- **[University Name]** - [Degree Type] in [Major], *Graduation Year*
-  - GPA: [Your GPA]/4.0
-  - Thesis: "[Thesis Title]"
-  - Advisor: [Advisor Name]
-  
-- **[Previous University/School]** - [Degree/Diploma], *Year*
-  - [Relevant coursework or achievements]
+- **Daniels College of Business – University of Denver** - Bachelor of Science Business Administration in Business Information & Analytics, *June 2025*
+  - GPA: 4.0
+  - 2nd Place at DU AI Competition
+  - Finalist at Entrepreneurship @ DU
 
-### Academic Awards
-| Award | Organization | Year |
-|-------|-------------|------|
-| [Award Name] | [Awarding Organization] | [Year] |
-| [Scholarship Name] | [Organization] | [Year] |
-| [Honor Society] | [Chapter] | [Year] |
+### Competitions and Distinctions
+| Competition/Award | Position | Year |
+|-------------------|----------|------|
+| DU AI Competition | 2nd Place | 2024 |
+| Entrepreneurship @ DU | Finalist | 2024 |
+| Madden Challenge - University of Denver | Team Leader | 2022 |
 
 ### Certifications
-- **[Certification Name]** - [Issuing Organization], *Expiration Date*
-- **[Certification Name]** - [Issuing Organization], *Expiration Date*
+- **Microsoft Suite** - Excel, PowerPoint, Word
+- **Azure AI Fundamentals**
+- **Salesforce Data Analyst**
+
+### LinkedIn Certifications
+- Python for Data Science and Machine Learning
+- Machine Learning in Mobile Applications
 
 <div align="right">
-  <a href="#professional-portfolio">Back to Top ↑</a>
+  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
 </div>
 
 ---
@@ -67,60 +104,50 @@ Welcome to my professional portfolio! I am a dedicated [your profession] passion
 
 <div align="center">
   
-  ![Latin Honors Badge](https://via.placeholder.com/150/FFD700/000000?text=Latin+Honors)
+  ![Latin Honors Badge](https://via.placeholder.com/150/FFD700/000000?text=4.0+GPA)
   
 </div>
 
-### Thesis Abstract
-```
-[Your thesis abstract goes here. This section provides a brief summary of your research, methodology, findings, and conclusions.]
-```
+### Academic Achievements
+Maintaining a perfect 4.0 GPA while balancing multiple professional positions demonstrates exceptional academic dedication and time management skills.
 
 ### Distinguished Projects
 <details>
-  <summary><strong>Research Project: [Project Title]</strong></summary>
+  <summary><strong>DU AI Competition - 2nd Place</strong></summary>
   
   #### Overview
-  [Brief description of the project]
+  [Brief description of your AI project and the competition]
   
   #### Methodology
-  [Description of your approach]
+  [Description of your approach to the AI challenge]
   
   #### Results
-  [Summary of findings]
+  [Summary of your results that earned 2nd place]
   
-  #### Impact
-  [Explanation of significance]
-  
-  #### Publications/Presentations
-  - [Citation or link to published work]
-  - [Conference presentation details]
+  #### Technologies Used
+  - Python
+  - Machine Learning
+  - [Other specific technologies]
 </details>
 
 <details>
-  <summary><strong>Capstone Project: [Project Title]</strong></summary>
+  <summary><strong>Entrepreneurship @ DU - Finalist Project</strong></summary>
   
   #### Description
-  [Project details]
+  [Details about your entrepreneurial project]
   
-  #### Technologies Used
-  - [Technology 1]
-  - [Technology 2]
+  #### Business Model
+  [Overview of your business concept]
   
-  #### Outcomes
-  [Results and achievements]
+  #### Market Analysis
+  [Summary of your market research]
   
-  #### Repository
-  [Link to GitHub repository if applicable]
+  #### Outcome
+  [Results of being a finalist and lessons learned]
 </details>
 
-### Academic References
-- **[Professor Name]** - [Position], [Department]
-  - Contact: [Email or professional link]
-  - Relationship: [Brief description of academic relationship]
-
 <div align="right">
-  <a href="#professional-portfolio">Back to Top ↑</a>
+  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
 </div>
 
 ---
@@ -133,41 +160,77 @@ Welcome to my professional portfolio! I am a dedicated [your profession] passion
 gantt
     title Career Timeline
     dateFormat  YYYY-MM
-    section Company A
-    Role A            :a1, 2020-06, 2021-12
-    section Company B
-    Role B            :a2, 2022-01, 2023-04
-    section Company C
-    Role C            :a3, 2023-05, 2025-02
+    section Content Creation
+    YouTube Content Creator            :a1, 2023-06, 2025-02
+    section Consulting
+    JTB Consulting                     :a2, 2024-02, 2025-02
+    Claritas (AI & ML Group)           :a3, 2023-11, 2024-01
+    Brunswick                          :a4, 2022-11, 2022-12
+    section Analysis
+    Claritas (Data Analytics)          :a5, 2024-11, 2025-02
+    Angel NV                           :a6, 2021-10, 2025-02
+    section University
+    DU AI Student Worker               :a7, 2024-05, 2024-10
 ```
 
 </div>
 
-### [Current/Most Recent Job Title] | [Company Name] | [Start Date - End Date/Present]
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Company+Logo" alt="Company Logo">
+### Intern — Data Analytics Group | Claritas | November 2024 - Present
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Claritas" alt="Claritas Logo">
 
-- [Key responsibility or achievement with measurable results]
-- [Key responsibility or achievement with measurable results]
-- [Key responsibility or achievement with measurable results]
-- **Technologies used:** [List relevant technologies, tools, or methodologies]
+- Streamlined Salesforce pipeline optimizing data flow enabling the use of generative AI
+- Worked on internal analytics focusing on customer retention & support, as well as evaluating employee performance
+- **Technologies used:** Salesforce, Data Analytics, AI
 
-### [Previous Job Title] | [Company Name] | [Start Date - End Date]
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Company+Logo" alt="Company Logo">
+### Software Consultant | JTB Consulting | February 2024 - Present
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=JTB" alt="JTB Consulting Logo">
 
-- [Key responsibility or achievement with measurable results]
-- [Key responsibility or achievement with measurable results]
-- [Key responsibility or achievement with measurable results]
-- **Technologies used:** [List relevant technologies, tools, or methodologies]
+- Advised and consulted with more than six companies such as NPR, MMA Global, and J&J on artificial intelligence, machine learning, and automation
+- Managed client expectations and delivered recommendations on time, improving client satisfaction scores by 22%
+- **Technologies used:** AI, Machine Learning, Automation
 
-### [Previous Job Title] | [Company Name] | [Start Date - End Date]
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Company+Logo" alt="Company Logo">
+### Analyst | Angel NV | October 2021 - Present
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Angel+NV" alt="Angel NV Logo">
 
-- [Key responsibility or achievement with measurable results]
-- [Key responsibility or achievement with measurable results]
-- **Technologies used:** [List relevant technologies, tools, or methodologies]
+- Analyzed 100+ potential companies for investment and helped decide where 2+ million would be invested
+- Conducted complex risk analysis narrowing 100 companies down to 10
+- **Technologies used:** Risk Analysis, Financial Modeling
+
+### Content Creator & YouTube Partner | YouTube | June 2023 - Present
+<img align="right" width="100" src="https://via.placeholder.com/100/FF0000/FFFFFF?text=YouTube" alt="YouTube Logo">
+
+- Amassed over 47 million views in a month, with a single day record of 2.6 million views
+- Utilized machine learning models in conjunction with data modeling to achieve an average of 1,000+ new subscribers a day
+- **Technologies used:** Machine Learning, Data Modeling, Content Strategy
+
+### AI Student Worker | University of Denver | May 2024 - October 2024
+<img align="right" width="100" src="https://via.placeholder.com/100/8B2332/FFFFFF?text=DU" alt="University of Denver Logo">
+
+- Created a mix of AI & machine learning models to make write ups 25% quicker with roughly 50% less errors
+- Collaborated with nine employees to capture optimal business requirements
+- **Technologies used:** AI, Machine Learning, Requirements Gathering
+
+### Consultant — AI & Machine Learning Group | Claritas | November 2023 - January 2024
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Claritas" alt="Claritas Logo">
+
+- Utilized AI to build a custom RAG internal tool to streamline production & automate work leading to 50% task completion speed
+- Completed tasks 10% quicker than expected and presented final product to CEO
+- **Technologies used:** AI, RAG, Automation
+
+### Consultant — Data Analytics Division | Brunswick | November 2022 - December 2022
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Brunswick" alt="Brunswick Logo">
+
+- Segmented 10,000+ data points and segmented 1000s of zip codes into custom segments
+- Utilized existing pipelines, streamlined data and reduced volume and load by roughly 35%
+- **Technologies used:** Data Analytics, Segmentation, Pipeline Optimization
+
+### Leadership Experience
+
+- **Sales Club - University of Denver**, *Vice-President DEI* (December 2023 – Present)
+- **Madden Challenge - University of Denver**, *Team Leader* (August 2022 – November 2022)
 
 <div align="right">
-  <a href="#professional-portfolio">Back to Top ↑</a>
+  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
 </div>
 
 ---
@@ -177,19 +240,25 @@ gantt
 <div align="center">
 
 ### Technical Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### Data & AI Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
 
 </div>
 
@@ -197,40 +266,35 @@ gantt
 
 ```
 Programming Languages
-├── JavaScript ███████████░░ 90%
 ├── Python     ████████████░ 95%
+├── JavaScript ███████████░░ 90%
 ├── Java       ██████████░░░ 80%
-├── SQL        ████████░░░░░ 70%
-└── C++        ██████░░░░░░░ 60%
+├── TypeScript ███████████░░ 90%
+└── R          ████████░░░░░ 70%
 
-Frameworks & Libraries
-├── React      ████████████░ 95%
-├── Node.js    ██████████░░░ 80%
-├── Django     ███████████░░ 90%
-└── Express    ████████░░░░░ 70%
+Data & Analytics
+├── SQL        ███████████░░ 90%
+├── Pandas     ████████████░ 95%
+├── NumPy      ████████████░ 95%
+├── Tableau    ███████████░░ 90%
+└── Power BI   ██████████░░░ 80%
 
-Other Skills
-├── Project Management ███████████░░ 90%
-├── Data Analysis      ████████████░ 95%
-├── UX/UI Design       ██████████░░░ 80%
-└── Technical Writing  ███████████░░ 90%
+AI & Machine Learning
+├── TensorFlow ███████████░░ 90%
+├── PyTorch    ██████████░░░ 80%
+├── RAG Systems██████████░░░ 80%
+└── ML Modeling████████████░ 95%
 ```
 
-### Languages
-- **English**: Native/Fluent
-- **[Language 2]**: [Proficiency Level]
-- **[Language 3]**: [Proficiency Level]
-
-### Soft Skills
-- Team leadership
-- Project management
-- Problem-solving
-- Cross-functional collaboration
-- Strategic planning
-- Public speaking
+### Certifications
+- Microsoft Suite (Excel, PowerPoint, Word)
+- Azure AI Fundamentals
+- Salesforce Data Analyst
+- Python for Data Science and Machine Learning
+- Machine Learning in Mobile Applications
 
 <div align="right">
-  <a href="#professional-portfolio">Back to Top ↑</a>
+  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
 </div>
 
 ---
