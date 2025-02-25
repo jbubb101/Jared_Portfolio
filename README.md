@@ -1,238 +1,241 @@
-# Jared Briggs' Professional Portfolio 🎉
+# Professional Portfolio
 
-![Placeholder Image](https://via.placeholder.com/150)
+<div align="right">
+  <a href="#professional-portfolio">Back to Top ↑</a>
+</div>
 
-## Welcome!
-I'm **Jared Briggs**, a dedicated and passionate data scientist specializing in AI & ML, driven by efficiency and innovation. 
-
-📧 Email: [1jaredbriggs@gmail.com](mailto:1jaredbriggs@gmail.com)  
-🔗 LinkedIn: [Jared Briggs](https://www.linkedin.com/in/jared-briggs-312704257/)
-
----
-
-## 📂 Directory
-- [Personal Website (In Progress)](./personal-website/README.md)
-- [Education & Awards](./education-awards/README.md)
-- [Latin Honors Portfolio](./latin-honors-portfolio/README.md)
-- [Professional Experience](./professional-experience/README.md)
-- [Skills](./skills/README.md)
+## Quick Navigation
+- [Personal Website](#personal-website)
+- [Education and Awards](#education-and-awards)
+- [Latin Honors Portfolio](#latin-honors-portfolio)
+- [Professional Experience](#professional-experience)
+- [Skills](#skills)
 
 ---
 
-## 📁 Subfolders
+## Personal Website
 
-### 1. Personal Website (`personal-website/README.md`)
-```
-# Personal Website (In Progress)
+<div align="center">
 
-🚧 Under Construction! 🚧
+![Portfolio Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Welcome+to+My+Portfolio)
 
-Stay tuned for updates on my personal website. This section will include:
-- Project updates
-- Features and functionalities
-- Link to the live website (coming soon)
+</div>
 
-Feel free to check back for progress!
-```
+Welcome to my professional portfolio! I am a dedicated [your profession] passionate about [your interests/specialization]. This README serves as a comprehensive overview of my academic and professional journey.
 
-### 2. Education & Awards (`education-awards/README.md`)
-```
-# Education & Awards
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-### 🎓 Daniels College of Business – University of Denver
-**Bachelor of Science Business Administration - Business Information & Analytics**  
-Graduation: June 2025  
-GPA: 4.0
-
-### 🏆 Awards & Achievements
-- 2nd Place at DU AI Competition
-- Finalist at Entrepreneurship @ DU
-
-### 📜 Latin Honors (Placeholder)
-Coming soon: Detailed achievements and recognitions!
-```
-
-### 3. Latin Honors Portfolio (`latin-honors-portfolio/README.md`)
-```
-# Latin Honors Portfolio
-
-🚀 Placeholder for Latin Honors achievements.
-
-Future updates will include:
-- Honors details
-- Recognitions and awards
-- Contributions and projects
-```
-
-### 4. Professional Experience (`professional-experience/README.md`)
-```
-# Professional Experience
-
-## Claritas (Remote)
-**Intern — Data Analytics Group**  
-November 2024 - Present
-- Streamlined Salesforce pipeline optimizing data flow enabling the use of generative AI
-- Focused on customer retention & support, and evaluating employee performance
-
-## JTB Consulting (Denver & Reno)
-**Software Consultant**  
-February 2024 - Present
-- Consulted with companies on AI, ML, and automation
-- Improved client satisfaction scores by 22%
-
-## Angel NV (Reno, Nevada)
-**Analyst**  
-October 2021 - Present
-- Analyzed 100+ potential companies for investment
-- Conducted complex risk analysis narrowing 100 companies down to 10
-
-## YouTube (Denver, Colorado)
-**Content Creator & YouTube Partner**  
-June 2023 - Present
-- Amassed over 47 million views in a month
-- Utilized ML models to achieve an average of 1,000+ new subscribers a day
-
-## University of Denver
-**AI Student Worker**  
-May 2024 - October 2024
-- Created AI & ML models reducing write-up time by 25% with 50% fewer errors
-
-## Brunswick (Remote)
-**Consultant — Data Analytics Division**  
-November 2022 - December 2022
-- Streamlined data pipelines reducing volume and load by ~35%
-```
-
-### 5. Skills (`skills/README.md`)
-```
-# Skills
-
-## Programming Languages
-- Python, Java, JavaScript, Typescript, R
-
-## Tools & Technologies
-- MySQL, PostgreSQL, Alteryx, Pandas, NumPy, Matplotlib
-- PyTorch, TensorFlow, Tableau, Power BI, Salesforce, Node JS
-
-## Certifications
-- Microsoft Suite (Excel, PowerPoint, Word)
-- Azure AI Fundamentals
-- Salesforce Data Analyst
-- LinkedIn Certifications:
-  - Python for Data Science and Machine Learning
-  - Machine Learning in Mobile Applications
-```
-
-
-### 1. Personal Website (`personal-website/README.md`)
-- Placeholder for website progress and future updates.
-- Section to link to the live site once published.
-
-### 2. Education & Awards (`education-awards/README.md`)
-- Detailed education history, including:
-  - Bachelor of Science Business Administration- Business Information & Analytics
-  - GPA: 4.0
-  - Achievements: 2nd Place at DU AI Competition & Finalist at Entrepreneurship @ DU
-
-### 3. Latin Honors Portfolio (`latin-honors-portfolio/README.md`)
-- Placeholder for Latin Honors achievements.
-- Room for future updates or recognition details.
-
-### 4. Professional Experience (`professional-experience/README.md`)
-- Detailed breakdown of your work experience:
-  - Claritas (Data Analytics Group)
-  - JTB Consulting (Software Consultant)
-  - Angel NV (Analyst)
-  - YouTube (Content Creator)
-  - University of Denver (AI Student Worker)
-  - Brunswick (Consultant— Data Analytics Division)
-
-### 5. Skills (`skills/README.md`)
-- Comprehensive list of technical skills and certifications.
-- Organized by:
-  - Programming Languages
-  - Tools & Technologies
-  - Certifications
-
-Each section is organized into its own subfolder for better organization:
-
-- **personal-website**: Placeholder for your website progress.
-- **education-awards**: Detailed education history and awards.
-- **latin-honors-portfolio**: Placeholder for Latin Honors information.
-- **professional-experience**: Detailed breakdown of your work experience.
-- **skills**: List of technical skills, certifications, and LinkedIn certifications.
-
-- [Personal Website (In Progress)](./personal-website/README.md)
-- [Education & Awards](./education-awards/README.md)
-- [Latin Honors Portfolio](./latin-honors-portfolio/README.md)
-- [Professional Experience](./professional-experience/README.md)
-- [Skills](./skills/README.md)
-- [Personal Website (In Progress)](./personal-website/README.md)
-- [Education & Awards](./education-awards/README.md)
-- [Latin Honors Portfolio](./latin-honors-portfolio/README.md)
-- [Professional Experience](./professional-experience/README.md)
-- [Skills](./skills/README.md)
+<div align="right">
+  <a href="#professional-portfolio">Back to Top ↑</a>
+</div>
 
 ---
 
-## Fun Fact 🎈
-I amassed over 47 million views in a month as a YouTube content creator, with a single-day record of 2.6 million views!
+## Education and Awards
+
+### Education
+- **[University Name]** - [Degree Type] in [Major], *Graduation Year*
+  - GPA: [Your GPA]/4.0
+  - Thesis: "[Thesis Title]"
+  - Advisor: [Advisor Name]
+  
+- **[Previous University/School]** - [Degree/Diploma], *Year*
+  - [Relevant coursework or achievements]
+
+### Academic Awards
+| Award | Organization | Year |
+|-------|-------------|------|
+| [Award Name] | [Awarding Organization] | [Year] |
+| [Scholarship Name] | [Organization] | [Year] |
+| [Honor Society] | [Chapter] | [Year] |
+
+### Certifications
+- **[Certification Name]** - [Issuing Organization], *Expiration Date*
+- **[Certification Name]** - [Issuing Organization], *Expiration Date*
+
+<div align="right">
+  <a href="#professional-portfolio">Back to Top ↑</a>
+</div>
 
 ---
 
-## 📁 Structure
+## Latin Honors Portfolio
 
+<div align="center">
+  
+  ![Latin Honors Badge](https://via.placeholder.com/150/FFD700/000000?text=Latin+Honors)
+  
+</div>
+
+### Thesis Abstract
 ```
-📁 JaredsPortfolio
-│   README.md
-│
-├── 📁 personal-website
-│       README.md
-│
-├── 📁 education-awards
-│       README.md
-│
-├── 📁 latin-honors-portfolio
-│       README.md
-│
-├── 📁 professional-experience
-│       README.md
-│
-└── 📁 skills
-        README.md
+[Your thesis abstract goes here. This section provides a brief summary of your research, methodology, findings, and conclusions.]
 ```
 
-```
-📁 JaredBriggs-Portfolio
-│   README.md
-│
-├── 📁 personal-website
-│       README.md
-│
-├── 📁 education-awards
-│       README.md
-│
-├── 📁 latin-honors-portfolio
-│       README.md
-│
-├── 📁 professional-experience
-│       README.md
-│
-└── 📁 skills
-        README.md
-```
+### Distinguished Projects
+<details>
+  <summary><strong>Research Project: [Project Title]</strong></summary>
+  
+  #### Overview
+  [Brief description of the project]
+  
+  #### Methodology
+  [Description of your approach]
+  
+  #### Results
+  [Summary of findings]
+  
+  #### Impact
+  [Explanation of significance]
+  
+  #### Publications/Presentations
+  - [Citation or link to published work]
+  - [Conference presentation details]
+</details>
+
+<details>
+  <summary><strong>Capstone Project: [Project Title]</strong></summary>
+  
+  #### Description
+  [Project details]
+  
+  #### Technologies Used
+  - [Technology 1]
+  - [Technology 2]
+  
+  #### Outcomes
+  [Results and achievements]
+  
+  #### Repository
+  [Link to GitHub repository if applicable]
+</details>
+
+### Academic References
+- **[Professor Name]** - [Position], [Department]
+  - Contact: [Email or professional link]
+  - Relationship: [Brief description of academic relationship]
+
+<div align="right">
+  <a href="#professional-portfolio">Back to Top ↑</a>
+</div>
 
 ---
 
-## 🚀 Stay Connected
-For collaboration or inquiries, feel free to reach out via email or connect with me on LinkedIn!
+## Professional Experience
+
+<div align="center">
+  
+```mermaid
+gantt
+    title Career Timeline
+    dateFormat  YYYY-MM
+    section Company A
+    Role A            :a1, 2020-06, 2021-12
+    section Company B
+    Role B            :a2, 2022-01, 2023-04
+    section Company C
+    Role C            :a3, 2023-05, 2025-02
+```
+
+</div>
+
+### [Current/Most Recent Job Title] | [Company Name] | [Start Date - End Date/Present]
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Company+Logo" alt="Company Logo">
+
+- [Key responsibility or achievement with measurable results]
+- [Key responsibility or achievement with measurable results]
+- [Key responsibility or achievement with measurable results]
+- **Technologies used:** [List relevant technologies, tools, or methodologies]
+
+### [Previous Job Title] | [Company Name] | [Start Date - End Date]
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Company+Logo" alt="Company Logo">
+
+- [Key responsibility or achievement with measurable results]
+- [Key responsibility or achievement with measurable results]
+- [Key responsibility or achievement with measurable results]
+- **Technologies used:** [List relevant technologies, tools, or methodologies]
+
+### [Previous Job Title] | [Company Name] | [Start Date - End Date]
+<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Company+Logo" alt="Company Logo">
+
+- [Key responsibility or achievement with measurable results]
+- [Key responsibility or achievement with measurable results]
+- **Technologies used:** [List relevant technologies, tools, or methodologies]
+
+<div align="right">
+  <a href="#professional-portfolio">Back to Top ↑</a>
+</div>
 
 ---
 
-## 🌐 Social Media
-[LinkedIn](https://www.linkedin.com/in/jared-briggs-312704257/) | [YouTube](#) | [GitHub](#)
+## Skills
+
+<div align="center">
+
+### Technical Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+### Skill Proficiency
+
+```
+Programming Languages
+├── JavaScript ███████████░░ 90%
+├── Python     ████████████░ 95%
+├── Java       ██████████░░░ 80%
+├── SQL        ████████░░░░░ 70%
+└── C++        ██████░░░░░░░ 60%
+
+Frameworks & Libraries
+├── React      ████████████░ 95%
+├── Node.js    ██████████░░░ 80%
+├── Django     ███████████░░ 90%
+└── Express    ████████░░░░░ 70%
+
+Other Skills
+├── Project Management ███████████░░ 90%
+├── Data Analysis      ████████████░ 95%
+├── UX/UI Design       ██████████░░░ 80%
+└── Technical Writing  ███████████░░ 90%
+```
+
+### Languages
+- **English**: Native/Fluent
+- **[Language 2]**: [Proficiency Level]
+- **[Language 3]**: [Proficiency Level]
+
+### Soft Skills
+- Team leadership
+- Project management
+- Problem-solving
+- Cross-functional collaboration
+- Strategic planning
+- Public speaking
+
+<div align="right">
+  <a href="#professional-portfolio">Back to Top ↑</a>
+</div>
 
 ---
 
-## ⚡ Fun Sign-off
-*Let's build something awesome together!* 🚀
+<div align="center">
+  <p>This portfolio is maintained using GitHub Actions for automatic deployment.</p>
+  <p>Last updated: February 2025</p>
+</div>
