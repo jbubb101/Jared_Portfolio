@@ -10,25 +10,6 @@
     </a>
 </div> 
 
-
-<br>
-<details open>
-    <summary align="center"><h2> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am a Data Analytics Professional and AI Enthusiast.</p>
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/ai.gif" width=35% height=45%/>
-    <h3> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/paper.gif" width="20px" />  A little more detail: </h3>
-    <ul>
-        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/books.gif" width="30px"/>&nbsp; I am pursuing a Bachelor's in Business Information & Analytics at the University of Denver.</a></li><br>
-        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop.gif" width="30px" />&nbsp;  I am passionate about data analytics, AI, and data story telling.</a></li><br>
-        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/basketball.gif" width="30px" />&nbsp; I enjoy staying active and playing sports.</a></li><br>
-        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/learninig.gif" width="30px" />&nbsp; I am always adding new tools/skills to my repitoire.</a></li><br>
-    </ul>
-<br>
-</details>
-
-
-
-
 ## ⚡ Quick Navigation
 
 
@@ -47,6 +28,25 @@
 
 
 </a>
+
+
+<br>
+<details open>
+    <summary align="center"><h2> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I am a Data Analytics Professional and AI Enthusiast.</p>
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <ul>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/books.gif" width="30px"/>&nbsp; I am pursuing a Bachelor's in Business Information & Analytics at the University of Denver.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop.gif" width="30px" />&nbsp;  I am passionate about data analytics, AI, and data story telling.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/basketball.gif" width="30px" />&nbsp; I enjoy staying active and playing sports.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/learninig.gif" width="30px" />&nbsp; I am always adding new tools/skills to my repitoire.</a></li><br>
+    </ul>
+<br>
+</details>
+
+
+
 
 
 
