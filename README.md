@@ -330,6 +330,15 @@ AI & Machine Learning
 <div align="center">
   <p>This portfolio is maintained using GitHub Actions for automatic deployment.</p>
   <p>Last updated: February 2025</p>
-</div>
+
+
+<div align="center">
+
+</details>
+
+<div align="center">
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 
 
