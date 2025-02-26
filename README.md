@@ -24,9 +24,6 @@
 </a>
 <a href="#skills">
     <img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35" alt="Skills">
-
-
-
 </a>
 
 
@@ -48,12 +45,6 @@
 
 
 
-
-
-</div>
-
-
----
 
 ## Personal Website
 
