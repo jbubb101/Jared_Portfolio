@@ -1,16 +1,21 @@
 # Jared Briggs - Professional Portfolio
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Jared+!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&height=45&lines=Welcome+to+My+Profile!;Hello+there!;My+name+is+Jared!" alt="Typing SVG" />
     </a>
 </div> 
+
+
+
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am a Data Analytics Professional and AI Enthusiast <img src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/cat-coder.gif" width="30px"> from Reno, NV.</p>
+    <p align="center"> I am a Data Analytics Professional and AI Enthusiast.</p>
     <img align="right" alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
@@ -24,46 +29,48 @@
 
 
 
-## Quick Navigation
+
+## ⚡ Quick Navigation
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
 
   <a href="#personal-website" 
-     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
-     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
-     transition: all 0.3s ease; margin: 5px;">
+     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
+     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
      Personal Website
   </a>
 
   <a href="#education-and-awards" 
-     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
-     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
-     transition: all 0.3s ease; margin: 5px;">
+     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
+     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
      Education & Awards
   </a>
 
   <a href="#latin-honors-portfolio" 
-     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
-     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
-     transition: all 0.3s ease; margin: 5px;">
+     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
+     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
      Latin Honors
   </a>
 
   <a href="#professional-experience" 
-     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
-     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
-     transition: all 0.3s ease; margin: 5px;">
+     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
+     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
      Experience
   </a>
 
   <a href="#skills" 
-     style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; 
-     border-radius: 25px; font-weight: bold; box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); 
-     transition: all 0.3s ease; margin: 5px;">
+     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
+     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
      Skills
   </a>
 
 </div>
+
 
 ---
 
@@ -324,3 +331,5 @@ AI & Machine Learning
   <p>This portfolio is maintained using GitHub Actions for automatic deployment.</p>
   <p>Last updated: February 2025</p>
 </div>
+
+
