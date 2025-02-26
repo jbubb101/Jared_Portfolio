@@ -11,7 +11,6 @@
 </div> 
 
 
-
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
@@ -32,42 +31,24 @@
 
 ## ⚡ Quick Navigation
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
 
-  <a href="#personal-website" 
-     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
-     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
-     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
-     Personal Website
-  </a>
+<a href="#education">
+    <img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35" alt="Education">
+</a>
+<a href="#latin-honors-portfolio">
+    <img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35" alt="Latin Honors Portfolio">
+</a>
+<a href="#prof-exp">
+    <img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35" alt="Professional Experience">
+</a>
+<a href="#skills">
+    <img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35" alt="Skills">
 
-  <a href="#education-and-awards" 
-     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
-     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
-     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
-     Education & Awards
-  </a>
 
-  <a href="#latin-honors-portfolio" 
-     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
-     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
-     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
-     Latin Honors
-  </a>
 
-  <a href="#professional-experience" 
-     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
-     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
-     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
-     Experience
-  </a>
+</a>
 
-  <a href="#skills" 
-     style="display: inline-block; padding: 12px 24px; background: linear-gradient(90deg, #4A90E2, #6C5B7B); color: white; text-decoration: none; 
-     border-radius: 50px; font-weight: bold; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
-     transition: all 0.4s ease; margin: 5px; animation: pulse 2s infinite;">
-     Skills
-  </a>
+
 
 </div>
 
