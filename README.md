@@ -1,8 +1,28 @@
 # Jared Briggs - Professional Portfolio
 
-<div align="right">
-  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Jared+!" alt="Typing SVG" />
+    </a>
+</div> 
+<br>
+<details open>
+    <summary align="center"><h2> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I am a Data Analytics Professional and AI Enthusiast <img src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/cat-coder.gif" width="30px"> from Reno, NV.</p>
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <ul>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/books.gif" width="30px"/>&nbsp; I am pursuing a Bachelor's in Business Information & Analytics at the University of Denver.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop.gif" width="30px" />&nbsp;  I am passionate about data analytics, AI, and data story telling.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/basketball.gif" width="30px" />&nbsp; I enjoy staying active and playing sports.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/learninig.gif" width="30px" />&nbsp; I am always adding new tools/skills to my repitoire.</a></li><br>
+    </ul>
+<br>
+</details>
+
+
 
 ## Quick Navigation
 
@@ -81,6 +101,7 @@ Welcome to my professional portfolio! I am a data analytics and AI specialist wi
 ### Competitions and Distinctions
 | Competition/Award | Position | Year |
 |-------------------|----------|------|
+| DU Case Competition | 2nd Place | 2025 |
 | DU AI Competition | 2nd Place | 2024 |
 | Entrepreneurship @ DU | Finalist | 2024 |
 | Madden Challenge - University of Denver | Team Leader | 2022 |
@@ -109,7 +130,7 @@ Welcome to my professional portfolio! I am a data analytics and AI specialist wi
 </div>
 
 ### Academic Achievements
-Maintaining a perfect 4.0 GPA while balancing multiple professional positions demonstrates exceptional academic dedication and time management skills.
+Maintaining a perfect 4.0 Major GPA while balancing multiple professional positions demonstrates exceptional academic dedication and time management skills.
 
 ### Distinguished Projects
 <details>
@@ -176,7 +197,7 @@ gantt
 </div>
 
 ### Intern — Data Analytics Group | Claritas | November 2024 - Present
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Claritas" alt="Claritas Logo">
+<img align="right" width="100" src="https://resource.globenewswire.com/Resource/Download/0cf39352-4ca6-490b-b885-bcdcf5b146bc" alt="Claritas Logo">
 
 - Streamlined Salesforce pipeline optimizing data flow enabling the use of generative AI
 - Worked on internal analytics focusing on customer retention & support, as well as evaluating employee performance
@@ -190,21 +211,21 @@ gantt
 - **Technologies used:** AI, Machine Learning, Automation
 
 ### Analyst | Angel NV | October 2021 - Present
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Angel+NV" alt="Angel NV Logo">
+<img align="right" width="100" src="https://startupnv.org/wp-content/uploads/2023/04/Angel-NV-Logo-1.jpg" alt="Angel NV Logo">
 
 - Analyzed 100+ potential companies for investment and helped decide where 2+ million would be invested
 - Conducted complex risk analysis narrowing 100 companies down to 10
 - **Technologies used:** Risk Analysis, Financial Modeling
 
 ### Content Creator & YouTube Partner | YouTube | June 2023 - Present
-<img align="right" width="100" src="https://via.placeholder.com/100/FF0000/FFFFFF?text=YouTube" alt="YouTube Logo">
+<img align="right" width="100" src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="YouTube Logo">
 
 - Amassed over 47 million views in a month, with a single day record of 2.6 million views
 - Utilized machine learning models in conjunction with data modeling to achieve an average of 1,000+ new subscribers a day
 - **Technologies used:** Machine Learning, Data Modeling, Content Strategy
 
 ### AI Student Worker | University of Denver | May 2024 - October 2024
-<img align="right" width="100" src="https://via.placeholder.com/100/8B2332/FFFFFF?text=DU" alt="University of Denver Logo">
+<img align="right" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GKLsLBt45COpj34rky1o159_dmcjReqH0Q&s" alt="University of Denver Logo">
 
 - Created a mix of AI & machine learning models to make write ups 25% quicker with roughly 50% less errors
 - Collaborated with nine employees to capture optimal business requirements
