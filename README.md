@@ -45,14 +45,18 @@
 
 
 
+<div align="center">
+  <h2>🌐 Personal Website 🌐</h2>
+  <p>
+    <a href="https://jbubb101.github.io/JaredsPortfolio/">
+      <img src="https://img.shields.io/badge/Visit-Portfolio-%230A66C2?style=for-the-badge&logo=github" alt="Visit Jared's Portfolio">
+    </a>
+  </p>
+</div>
 
-## Personal Website
 
 <div align="center">
 
-![Portfolio Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Jared+Briggs+-+Data+Analytics+%26+AI+Specialist)
-
-</div>
 
 Welcome to my professional portfolio! I am a data analytics and AI specialist with experience in consulting, analysis, and software development. Currently pursuing my Bachelor's degree in Business Information & Analytics at the University of Denver with a perfect 4.0 Major GPA, I've already established myself professionally through consulting work, data analysis, and creating successful online content.
 
@@ -175,63 +179,6 @@ gantt
 
 </div>
 
-### Intern — Data Analytics Group | Claritas | November 2024 - Present
-<img align="right" width="100" src="https://resource.globenewswire.com/Resource/Download/0cf39352-4ca6-490b-b885-bcdcf5b146bc" alt="Claritas Logo">
-
-- Streamlined Salesforce pipeline optimizing data flow enabling the use of generative AI
-- Worked on internal analytics focusing on customer retention & support, as well as evaluating employee performance
-- **Technologies used:** Salesforce, Data Analytics, AI
-
-### Software Consultant | JTB Consulting | February 2024 - Present
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=JTB" alt="JTB Consulting Logo">
-
-- Advised and consulted with more than six companies such as NPR, MMA Global, and J&J on artificial intelligence, machine learning, and automation
-- Managed client expectations and delivered recommendations on time, improving client satisfaction scores by 22%
-- **Technologies used:** AI, Machine Learning, Automation
-
-### Analyst | Angel NV | October 2021 - Present
-<img align="right" width="100" src="https://startupnv.org/wp-content/uploads/2023/04/Angel-NV-Logo-1.jpg" alt="Angel NV Logo">
-
-- Analyzed 100+ potential companies for investment and helped decide where 2+ million would be invested
-- Conducted complex risk analysis narrowing 100 companies down to 10
-- **Technologies used:** Risk Analysis, Financial Modeling
-
-### Content Creator & YouTube Partner | YouTube | June 2023 - Present
-<img align="right" width="100" src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="YouTube Logo">
-
-- Amassed over 47 million views in a month, with a single day record of 2.6 million views
-- Utilized machine learning models in conjunction with data modeling to achieve an average of 1,000+ new subscribers a day
-- **Technologies used:** Machine Learning, Data Modeling, Content Strategy
-
-### AI Student Worker | University of Denver | May 2024 - October 2024
-<img align="right" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GKLsLBt45COpj34rky1o159_dmcjReqH0Q&s" alt="University of Denver Logo">
-
-- Created a mix of AI & machine learning models to make write ups 25% quicker with roughly 50% less errors
-- Collaborated with nine employees to capture optimal business requirements
-- **Technologies used:** AI, Machine Learning, Requirements Gathering
-
-### Consultant — AI & Machine Learning Group | Claritas | November 2023 - January 2024
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Claritas" alt="Claritas Logo">
-
-- Utilized AI to build a custom RAG internal tool to streamline production & automate work leading to 50% task completion speed
-- Completed tasks 10% quicker than expected and presented final product to CEO
-- **Technologies used:** AI, RAG, Automation
-
-### Consultant — Data Analytics Division | Brunswick | November 2022 - December 2022
-<img align="right" width="100" src="https://via.placeholder.com/100/555555/FFFFFF?text=Brunswick" alt="Brunswick Logo">
-
-- Segmented 10,000+ data points and segmented 1000s of zip codes into custom segments
-- Utilized existing pipelines, streamlined data and reduced volume and load by roughly 35%
-- **Technologies used:** Data Analytics, Segmentation, Pipeline Optimization
-
-### Leadership Experience
-
-- **Sales Club - University of Denver**, *Vice-President DEI* (December 2023 – Present)
-- **Madden Challenge - University of Denver**, *Team Leader* (August 2022 – November 2022)
-
-<div align="right">
-  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
-</div>
 
 ---
 
