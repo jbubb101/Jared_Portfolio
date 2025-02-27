@@ -60,12 +60,7 @@
 
 Welcome to my professional portfolio! I am a data analytics and AI specialist with experience in consulting, analysis, and software development. Currently pursuing my Bachelor's degree in Business Information & Analytics at the University of Denver with a perfect 4.0 Major GPA, I've already established myself professionally through consulting work, data analysis, and creating successful online content.
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Connect With Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-briggs-312704257/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbubb101)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1jaredbriggs@gmail.com)
 
----
 
 <div align="right">
   <a href="#jared-rex-briggs---professional-portfolio">Back to Top ↑</a>
@@ -244,17 +239,14 @@ AI & Machine Learning
 
 ---
 
-<div align="center">
-  <p>This portfolio is maintained using GitHub Actions for automatic deployment.</p>
-  <p>Last updated: February 2025</p>
-
-
-<div align="center">
-
 </details>
 
 <div align="center">
 
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-briggs-312704257/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbubb101)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1jaredbriggs@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 
