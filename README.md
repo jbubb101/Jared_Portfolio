@@ -55,16 +55,6 @@
 </div>
 
 
-<div align="center">
-
-
-Welcome to my professional portfolio! I am a data analytics and AI specialist with experience in consulting, analysis, and software development. Currently pursuing my Bachelor's degree in Business Information & Analytics at the University of Denver with a perfect 4.0 Major GPA, I've already established myself professionally through consulting work, data analysis, and creating successful online content.
-
-
-
-<div align="right">
-  <a href="#jared-rex-briggs---professional-portfolio">Back to Top ↑</a>
-</div>
 
 ## Education and Awards
 
