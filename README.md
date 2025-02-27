@@ -56,13 +56,13 @@
 
 
 
-## Education and Awards
+## Education and Awards 🏆
 
 ### Education
 - **Daniels College of Business – University of Denver** - Bachelor of Science Business Administration in Business Information & Analytics, *June 2025*
-  - GPA: 4.0
+  - Major GPA: 4.00, Cumlative GPA: 3.91
   - 2nd Place at DU AI Competition
-  - Finalist at Entrepreneurship @ DU
+  - 2nd Place DU Business Olympics
 
 ### Competitions and Distinctions
 | Competition/Award | Position | Year |
