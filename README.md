@@ -60,18 +60,16 @@
 
 Welcome to my professional portfolio! I am a data analytics and AI specialist with experience in consulting, analysis, and software development. Currently pursuing my Bachelor's degree in Business Information & Analytics at the University of Denver with a perfect 4.0 Major GPA, I've already established myself professionally through consulting work, data analysis, and creating successful online content.
 
-### Connect With Me
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Connect With Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-briggs-312704257/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@JaredBriggs)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbubb101)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1jaredbriggs@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:7024672204)
-
-<div align="right">
-  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
-</div>
 
 ---
+
+<div align="right">
+  <a href="#jared-rex-briggs---professional-portfolio">Back to Top ↑</a>
+</div>
 
 ## Education and Awards
 
