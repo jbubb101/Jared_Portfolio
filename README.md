@@ -69,7 +69,8 @@
 |-------------------|----------|------|
 | DU Case Competition | 2nd Place | 2025 |
 | DU AI Competition | 2nd Place | 2024 |
-| Entrepreneurship @ DU | Finalist | 2024 |
+| Marketing Case Competition | 1st Place | 2023|
+| Entrepreneurship @ DU | Finalist | 2022 |
 | Madden Challenge - University of Denver | Team Leader | 2022 |
 
 ### Certifications
