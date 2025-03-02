@@ -55,13 +55,9 @@
 </div>
 
 ## 🏆 Education and Awards 
-
-<div align="left">
-
 ### Education
 - **Daniels College of Business – University of Denver** - Bachelor of Science Business Administration in Business Information & Analytics, *June 2025*
   - Major GPA: 4.00, Cumulative GPA: 3.91
-
 ### Competitions and Distinctions
 | Competition/Award | Position | Year |
 |-------------------|----------|------|
@@ -70,27 +66,20 @@
 | Marketing Case Competition | 1st Place | 2023|
 | Entrepreneurship @ DU | Finalist | 2022 |
 | Madden Challenge - University of Denver | Team Leader | 2022 |
-
 ### Certifications
 - **Microsoft Suite** - Excel, PowerPoint, Word
 - **Azure AI Fundamentals**
 - **Salesforce Data Analyst**
-
 ### LinkedIn Certifications
 - Python for Data Science and Machine Learning
 - Machine Learning in Mobile Applications
 
+<div align="center">
+  <img src="1740334365306.jpeg" 
+       alt="DU Business Olympics" 
+       width="600">
+  <p><em>2nd Place - DU Business Olympics (2025)</em></p>
 </div>
-
-<div align="right">
-    <img src="https://raw.githubusercontent.com/jbubb101/JaredsPortfolio/main/1740334365306.jpeg" 
-    alt="DU Business Olympics" 
-    width="300px" 
-    style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-    <p style="font-size: 14px; color: gray;">2nd Place - DU Business Olympics (2025)</p>
-</div>
-
-
 
 <div align="right">
   <a href="#jared-briggs---professional-portfolio">
