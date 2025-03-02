@@ -82,7 +82,7 @@
 </div>
 
 <div align="right">
-  <a href="#jared-briggs---professional-portfolio">
+  <a href="#">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
@@ -135,8 +135,9 @@ Maintaining a perfect 4.0 Major GPA while balancing multiple professional positi
   [Results of being a finalist and lessons learned]
 </details>
 
+
 <div align="right">
-  <a href="#jared-briggs---professional-portfolio">
+  <a href="#">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
@@ -224,8 +225,9 @@ AI & Machine Learning
 ---
 
 </details>
+
 <div align="right">
-  <a href="#jared-briggs---professional-portfolio">
+  <a href="#">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
