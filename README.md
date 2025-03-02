@@ -54,6 +54,7 @@
   </p>
 </div>
 
+<a id="education"></a>
 ## 🏆 Education and Awards 
 ### Education
 - **Daniels College of Business – University of Denver** - Bachelor of Science Business Administration in Business Information & Analytics, *June 2025*
@@ -89,12 +90,13 @@
 
 ---
 <a id="latin-honors"></a>
-## 🎓 Latin Honors Portfolio
+<a id="latin-honors"></a>
+## 🎓 Daniels Distinction & Latin Honors
 
 <div align="center">
-  
-  ![Latin Honors Badge](https://via.placeholder.com/150/FFD700/000000?text=4.0+GPA)
-  
+  <a href="https://github.com/jbubb101/Latin_Honors_dataset_1">
+    <img src="https://img.shields.io/badge/View_Latin_Honors_Repository-4A90E2?style=for-the-badge&logo=github" alt="Latin Honors Repository">
+  </a>
 </div>
 
 ### Academic Achievements
@@ -135,12 +137,12 @@ Maintaining a perfect 4.0 Major GPA while balancing multiple professional positi
   [Results of being a finalist and lessons learned]
 </details>
 
-
 <div align="right">
   <a href="#readme-top">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
+
 
 ---
 <a id="professional-experience"></a>
