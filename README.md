@@ -37,7 +37,7 @@
         <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/books.gif" width="30px"/>&nbsp; I am pursuing a Bachelor's in Business Information & Analytics at the University of Denver.</a></li><br>
         <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop.gif" width="30px" />&nbsp;  I am passionate about data analytics, AI, and data story telling.</a></li><br>
         <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/basketball.gif" width="30px" />&nbsp; I enjoy staying active and playing sports.</a></li><br>
-        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/learninig.gif" width="30px" />&nbsp; I am always adding new tools/skills to my repitoire.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/learninig.gif" width="30px" />&nbsp; I am always adding new tools & skills to my repitoire.</a></li><br>
     </ul>
 <br>
 </details>
@@ -54,7 +54,7 @@
   </p>
 </div>
 
-## Education and Awards 🏆
+## 🏆 Education and Awards 
 
 <div align="left">
 
@@ -90,37 +90,7 @@
     <p style="font-size: 14px; color: gray;">2nd Place - DU Business Olympics (2025)</p>
 </div>
 
----
 
-<div align="right">
-  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
-</div>
-
-
-## Education and Awards 🏆
-
-### Education
-- **Daniels College of Business – University of Denver** - Bachelor of Science Business Administration in Business Information & Analytics, *June 2025*
-  - Major GPA: 4.00, Cumulative GPA: 3.91
-  - 2nd Place at DU AI Competition
-  - 2nd Place DU Business Olympics
-
-### Competitions and Distinctions
-| Competition/Award | Position | Year |
-|-------------------|----------|------|
-| DU Case Competition | 2nd Place | 2025 |
-| DU AI Competition | 2nd Place | 2024 |
-| Entrepreneurship @ DU | Finalist | 2024 |
-| Madden Challenge - University of Denver | Team Leader | 2022 |
-
-### Certifications
-- **Microsoft Suite** - Excel, PowerPoint, Word
-- **Azure AI Fundamentals**
-- **Salesforce Data Analyst**
-
-### LinkedIn Certifications
-- Python for Data Science and Machine Learning
-- Machine Learning in Mobile Applications
 
 <div align="right">
   <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
@@ -128,7 +98,7 @@
 
 ---
 
-## Latin Honors Portfolio
+## 🎓 Latin Honors Portfolio
 
 <div align="center">
   
@@ -180,7 +150,7 @@ Maintaining a perfect 4.0 Major GPA while balancing multiple professional positi
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 <div align="center">
   
@@ -206,7 +176,7 @@ gantt
 
 ---
 
-## Skills
+## 💡Skills
 
 <div align="center">
 
@@ -257,16 +227,6 @@ AI & Machine Learning
 └── ML Modeling████████████░ 95%
 ```
 
-### Certifications
-- Microsoft Suite (Excel, PowerPoint, Word)
-- Azure AI Fundamentals
-- Salesforce Data Analyst
-- Python for Data Science and Machine Learning
-- Machine Learning in Mobile Applications
-
-<div align="right">
-  <a href="#jared-briggs---professional-portfolio">Back to Top ↑</a>
-</div>
 
 ---
 
