@@ -1,4 +1,4 @@
-
+<a id="readme-top"></a>
 
 
 
@@ -82,7 +82,7 @@
 </div>
 
 <div align="right">
-  <a href="#">
+  <a href="#readme-top">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
@@ -137,7 +137,7 @@ Maintaining a perfect 4.0 Major GPA while balancing multiple professional positi
 
 
 <div align="right">
-  <a href="#">
+  <a href="#readme-top">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
@@ -227,7 +227,7 @@ AI & Machine Learning
 </details>
 
 <div align="right">
-  <a href="#">
+  <a href="#readme-top">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
