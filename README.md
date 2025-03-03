@@ -370,6 +370,8 @@ I continuously refine my soft skills through:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbubb101)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1jaredbriggs@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+
 
 
