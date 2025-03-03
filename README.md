@@ -37,7 +37,7 @@
         <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/books.gif" width="30px"/>&nbsp; I am pursuing a Bachelor's in Business Information & Analytics at the University of Denver.</a></li><br>
         <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/laptop.gif" width="30px" />&nbsp;  I am passionate about data analytics, AI, and data story telling.</a></li><br>
         <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/basketball.gif" width="30px" />&nbsp; I enjoy staying active and playing sports.</a></li><br>
-        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/learninig.gif" width="30px" />&nbsp; I am always adding new tools & skills to my repitoire.</a></li><br>
+        <li><a><img alt="GIF" src="https://raw.githubusercontent.com/K1rsN7/K1rsN7/main/Image/learninig.gif" width="30px" />&nbsp; I am always adding new tools & skills to my repertoire.</a></li><br>
     </ul>
 <br>
 </details>
@@ -89,7 +89,6 @@
 </div>
 
 ---
-<a id="latin-honors"></a>
 <a id="latin-honors"></a>
 ## 🎓 Daniels Distinction & Latin Honors
 
