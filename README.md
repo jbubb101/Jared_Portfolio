@@ -43,10 +43,9 @@
 <div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; margin: 20px 0;">
         <h3>🌟 My Ethos 🌟</h3>
         <p style="font-style: italic; font-size: 18px;">
-            I transform complex data into actionable insights that drive business decisions. Combining technical analytics expertise with strategic business understanding, I bridge the gap between data and meaningful outcomes. I'm seeking roles where I can leverage advanced analytics and AI to solve challenging business problems and create measurable impact.
-        </p>
-    </div>
-    <br>
+ I am an industry-certified Data Analyst with 3 years of experience and extensive expertise in creating impactful visualizations and developing AI and Machine Learning models. I am looking to deliver actionable insights that drive strategic decision-making, enhance operational efficiency, and unlock growth opportunities for your organization.</p>
+        <hr style="border: 0; height: 2px; background-color: #333; width: 80%; margin: 15px auto;">
+</div>
 </details>
 
 
