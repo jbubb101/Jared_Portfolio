@@ -236,68 +236,73 @@ AI & Machine Learning
   </a>
 </div>
 
-### ❤️ Soft Skills & Attributes
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 25px 0;">
-  <div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">💬 Communication</h4>
-    <p>Articulate complex data concepts to non-technical stakeholders with clarity and impact</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #13547a 0%, #80d0c7 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">🤝 Collaboration</h4>
-    <p>Work effectively across departments, bridging technical and business teams</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #ff8008 0%, #ffc837 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">🧩 Problem Solving</h4>
-    <p>Approach challenges with analytical thinking and creative solutions</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #4e54c8 0%, #8f94fb 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">⏱️ Time Management</h4>
-    <p>Balance multiple priorities while maintaining high-quality deliverables</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">📊 Data Storytelling</h4>
-    <p>Transform complex analyses into compelling narratives that drive decisions</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">🔍 Attention to Detail</h4>
-    <p>Maintain precision and accuracy in data processing and analysis</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #f857a6 0%, #ff5858 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">🚀 Adaptability</h4>
-    <p>Quickly learn new technologies and methodologies as the field evolves</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">🎯 Results-Oriented</h4>
-    <p>Focus on delivering actionable insights that create tangible business value</p>
-  </div>
+<details>
+  <summary><h3>❤️ Soft Skills & Attributes</h3></summary>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 25px 0;">
+    <div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <h4 style="margin-top: 0;">💬 Communication</h4>
+      <p>Articulate complex data concepts to non-technical stakeholders with clarity and impact</p>
+    </div>
+    
+<div style="background: linear-gradient(135deg, #13547a 0%, #80d0c7 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin-top: 0;">🤝 Collaboration</h4>
+  <p>Work effectively across departments, bridging technical and business teams</p>
 </div>
 
-<br>
+<div style="background: linear-gradient(135deg, #ff8008 0%, #ffc837 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin-top: 0;">🧩 Problem Solving</h4>
+  <p>Approach challenges with analytical thinking and creative solutions</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #4e54c8 0%, #8f94fb 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin-top: 0;">⏱️ Time Management</h4>
+  <p>Balance multiple priorities while maintaining high-quality deliverables</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin-top: 0;">📊 Data Storytelling</h4>
+  <p>Transform complex analyses into compelling narratives that drive decisions</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin-top: 0;">🔍 Attention to Detail</h4>
+  <p>Maintain precision and accuracy in data processing and analysis</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #f857a6 0%, #ff5858 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin-top: 0;">🚀 Adaptability</h4>
+  <p>Quickly learn new technologies and methodologies as the field evolves</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%); color: white; padding: 15px; border-radius: 10px; width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin-top: 0;">🎯 Results-Oriented</h4>
+  <p>Focus on delivering actionable insights that create tangible business value</p>
+</div>
+  </div>
+
+  <br>
+
+
 
 #### Professional Development Focus
-I regularly enhance these soft skills through:
-- Participation in cross-functional team projects at DU
-- Leading collaborative data analysis projects
-- Communicating technical findings to diverse audiences
-- Continuous improvement through feedback and self-reflection
+I continuously refine my soft skills through:
 
----
-
-</details>
+- Leadership: Organizing and leading events as an officer of the DU Sales Club.
+- Public Speaking: Guest lecturing at colleges to share insights and knowledge.
+- Effective Communication: Presenting technical findings to diverse audiences in an engaging and accessible manner.
+- Problem-Solving: Translating complex analyses into intuitive, actionable solutions.
 
 <div align="right">
   <a href="#readme-top">
     <img src="https://img.shields.io/badge/Back_to_Top-↑-4A90E2?style=for-the-badge" alt="Back to Top" />
   </a>
 </div>
+
+---
+
+</details>
+
+
 
 <div align="center">
 
