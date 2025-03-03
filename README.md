@@ -208,22 +208,22 @@ gantt
 Programming Languages
 ├── Python     ████████████░ 95%
 ├── JavaScript ███████████░░ 90%
-├── Java       ██████████░░░ 80%
+├── Java       ████████░░░░░ 80%
 ├── TypeScript ███████████░░ 90%
-└── R          ████████░░░░░ 70%
+└── R          ███████░░░░░░ 70%
 
 Data & Analytics
-├── SQL        ███████████░░ 95%
+├── SQL        ████████████░ 95%
 ├── Pandas     ████████████░ 95%
-├── NumPy      ████████████░ 90%
+├── NumPy      ███████████░░ 90%
 ├── Tableau    ███████████░░ 90%
-└── Power BI   ██████████░░░ 80%
+└── Power BI   ████████░░░░░ 80%
 
 AI & Machine Learning
-├── TensorFlow ███████████░░ 90%
-├── PyTorch    ██████████░░░ 80%
-├── RAG Systems██████████░░░ 80%
-└── ML Modeling████████████░ 95%
+├── TensorFlow ████████░░░░░ 80%
+├── PyTorch    ███████████░░ 90%
+├── RAG Systems████████░░░░░ 85%
+└── ML Modeling████████░░░░░ 85%
 ```
 
 
