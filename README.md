@@ -99,30 +99,48 @@
   </a>
 </div>
 
-### Academic Achievements
-Maintaining a perfect 4.0 Major GPA while balancing multiple professional positions demonstrates exceptional academic dedication and time management skills.
+### Daniels Distinction
+The Daniels Distinction & Latin Honors program recognizes undergraduate students at the Daniels College of Business who a achieve a GPA at or above 3.85, complete an application, meet with a faculty advisor, and create a research portfolio
 
 ### Distinguished Projects
 <details>
-  <summary><strong>DU AI Competition - 2nd Place</strong></summary>
+  <summary><strong>Latin Honors Portfolio</strong></summary>
   
   #### Overview
-  [Brief description of your AI project and the competition]
+The focus of my project was on optimizing student retention and throughput for universities. I worked on developing a predictive model that could not only forecast student dropouts but also identify the key factors that contribute to students transferring or leaving a university. By conducting in-depth research and analyzing various data points, my goal was to uncover patterns and trends that influence student retention. This project aimed to provide universities with actionable insights to improve student support systems and create a more effective learning environment.
   
-  #### Methodology
-  [Description of your approach to the AI challenge]
-  
-  #### Results
-  [Summary of your results that earned 2nd place]
+
+ #### Methodology  
+To develop a comprehensive predictive model, I utilized multiple datasets from various countries, ensuring a diverse and representative sample of student data. This approach allowed me to analyze student retention and dropout patterns across different educational systems, helping to identify common denominators among universities worldwide. The methodology involved several key steps:  
+
+1. **Data Collection and Preprocessing** – I gathered publicly available and institutional datasets containing student demographic information, academic performance records, financial data, and engagement metrics. These datasets were cleaned, normalized, and preprocessed to remove inconsistencies, missing values, and irrelevant features.  
+
+2. **Feature Selection and Engineering** – I identified key variables that could influence student retention, such as socioeconomic status, GPA, attendance records, financial aid, and extracurricular involvement. Feature engineering techniques were applied to create new meaningful predictors that could enhance the model’s performance.  
+
+3. **Exploratory Data Analysis (EDA)** – I performed statistical analysis and data visualization techniques to uncover trends and correlations between different factors and student outcomes. This step helped validate assumptions and refine the selection of important features.  
+
+4. **Model Development** – I experimented with various machine learning algorithms, including logistic regression, decision trees, random forests, and neural networks, to predict dropout risks and potential transfers. The models were trained using historical student data and validated through cross-validation techniques to ensure accuracy and generalizability.  
+
+5. **Model Evaluation and Optimization** – I used performance metrics such as accuracy, precision, recall, and F1-score to assess the effectiveness of different models. Hyperparameter tuning was performed to optimize the model’s predictive power, and feature importance analysis was conducted to identify the most influential factors contributing to student dropouts.  
+
+6. **Cross-Country Comparisons** – By analyzing data from multiple countries, I was able to compare and contrast the factors affecting student retention globally. This helped determine whether certain dropout risks were universal or specific to particular regions or education systems.  
+
+7. **Implementation and Recommendations** – Based on the findings, I formulated recommendations for universities to enhance their student support initiatives, improve academic counseling, and implement targeted intervention programs to reduce dropout rates.  
+
+This structured methodology ensured that the predictive model was robust, interpretable, and adaptable for use across various educational institutions.
+
+#### Results  
+Not only was I able to predict the likelihood of a student dropping out with approximately 75% accuracy, but I also developed a simple yet effective model that could proactively identify at-risk students. This model not only flagged students who were likely to drop out but also provided insights into the specific factors contributing to their risk, allowing for targeted interventions. Additionally, I designed a system that could facilitate early outreach, enabling universities to connect with these students through academic advising, financial aid support, or mental health resources. By implementing this approach, universities could take proactive measures to improve student retention, enhance overall throughput, and create a more supportive learning environment.
   
   #### Technologies Used
   - Python
+  - Pandas & NumPy
   - Machine Learning
-  - [Other specific technologies]
+  - OpenAI
 </details>
 
 <details>
-  <summary><strong>Entrepreneurship @ DU - Finalist Project</strong></summary>
+  <summary><strong>DU AI Competition - 2nd Place</strong></summary>
   
   #### Description
   [Details about your entrepreneurial project]
