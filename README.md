@@ -62,9 +62,66 @@
 
 <a id="education"></a>
 ## 🏆 Education and Awards 
+
 ### Education
 - **Daniels College of Business – University of Denver** - Bachelor of Science Business Administration in Business Information & Analytics, *June 2025*
   - Major GPA: 4.00, Cumulative GPA: 3.91
+
+<details>
+  <summary><strong>Key Courses & Skills Acquired</strong></summary>
+  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
+    <div style="background: rgba(74, 144, 226, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
+      <h4>📊 Data Analysis & Visualization</h4>
+      <ul>
+        <li><strong>INFO 3200:</strong> Data Mining and Visualization — Mastered descriptive analytics (data visualization and dashboards) and predictive analytics (time series analysis, cluster analysis, regression and decision trees) using JMP and R</li>
+        <li><strong>INFO 3300:</strong> Data Warehousing and Business Intelligence — Implemented data warehouse components, ETL processes, and applied predictive/descriptive analytics using SQL Server, SSAS, PowerBI, and Visual Studio</li>
+        <li><strong>INFO 3400:</strong> Complex Data Analytics — Developed techniques for analyzing text data and drawing meaningful conclusions using Alteryx and NodeXL</li>
+      </ul>
+    </div>
+    
+<div style="background: rgba(74, 144, 226, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
+      <h4>💻 Programming & Database Management</h4>
+      <ul>
+        <li><strong>INFO 3100:</strong> Automating Business Processes — Applied programming fundamentals (variables, control statements, loops, arrays) to automate business processes using Excel VBA and Python</li>
+        <li><strong>INFO 3140:</strong> Foundations of Information Management — Mastered database fundamentals, data modeling, normalization, and SQL queries using MS Access and Visio</li>
+        <li><strong>INFO 3240:</strong> Enterprise Information Management — Designed enterprise databases and developed advanced queries, functions, procedures using SQL Server, SSMS, and Visual Studio</li>
+      </ul>
+    </div>
+    
+<div style="background: rgba(74, 144, 226, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
+      <h4>🧠 Optimization & Problem Solving</h4>
+      <ul>
+        <li><strong>INFO 3340:</strong> Project Management and Simulation — Planned projects with flexibility in scope, timeframe and resources using critical chain approach and Monte Carlo simulation modeling</li>
+        <li><strong>INFO 3440:</strong> Optimization Modeling — Designed spreadsheet models using optimization and linear programming techniques with Excel and Python</li>
+        <li><strong>INFO 4400:</strong> Advanced Analytics — Implemented machine learning algorithms to solve complex business problems using Python and specialized libraries</li>
+      </ul>
+    </div>
+    
+<div style="background: rgba(74, 144, 226, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
+      <h4>📈 Business & Accounting</h4>
+      <ul>
+        <li><strong>ACTG 2200:</strong> Financial Accounting — Developed understanding of financial statements and business metrics</li>
+        <li><strong>ACTG 2300:</strong> Managerial Accounting — Learned cost-volume-profit analysis, budgeting, and decision-making tools for management</li>
+        <li><strong>MKTG 3200:</strong> Marketing Analytics — Applied data-driven approaches to marketing challenges and consumer behavior analysis</li>
+        <li><strong>MGMT 3000:</strong> Business Policy and Strategy — Analyzed business cases and developed strategic frameworks for decision-making</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div style="margin-top: 20px; background: rgba(74, 144, 226, 0.05); padding: 15px; border-radius: 10px;">
+    <h4>Key Technical Skills Developed Through Coursework:</h4>
+    <ul>
+      <li><strong>Programming Languages:</strong> Python, VBA, SQL, R</li>
+      <li><strong>Data Analysis Tools:</strong> JMP, Alteryx, NodeXL</li>
+      <li><strong>Data Visualization:</strong> PowerBI, Tableau, R visualization packages</li>
+      <li><strong>Database Systems:</strong> SQL Server, MS Access, SSMS, SSAS</li>
+      <li><strong>Modeling Techniques:</strong> Linear programming, Monte Carlo simulation, time series analysis, cluster analysis, decision trees</li>
+      <li><strong>Development Environments:</strong> Visual Studio, SQL Server Management Studio</li>
+    </ul>
+  </div>
+</details>
+
 ### Competitions and Distinctions
 | Competition/Award | Position | Year |
 |-------------------|----------|------|
@@ -73,10 +130,12 @@
 | Marketing Case Competition | 1st Place | 2023|
 | Entrepreneurship @ DU | Finalist | 2022 |
 | Madden Challenge - University of Denver | Team Leader | 2022 |
+
 ### Certifications
 - **Microsoft Suite** - Excel, PowerPoint, Word
 - **Azure AI Fundamentals**
 - **Salesforce Data Analyst**
+
 ### LinkedIn Certifications
 - Python for Data Science and Machine Learning
 - Machine Learning in Mobile Applications
