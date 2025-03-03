@@ -139,21 +139,6 @@ Not only was I able to predict the likelihood of a student dropping out with app
   - OpenAI
 </details>
 
-<details>
-  <summary><strong>DU AI Competition - 2nd Place</strong></summary>
-  
-  #### Description
-  [Details about your entrepreneurial project]
-  
-  #### Business Model
-  [Overview of your business concept]
-  
-  #### Market Analysis
-  [Summary of your market research]
-  
-  #### Outcome
-  [Results of being a finalist and lessons learned]
-</details>
 
 <div align="right">
   <a href="#readme-top">
