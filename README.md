@@ -41,7 +41,7 @@
     </ul>
     
 <div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; margin: 20px 0;">
-        <h3>🌟 My Brand Statement 🌟</h3>
+        <h3>🌟 My Ethos 🌟</h3>
         <p style="font-style: italic; font-size: 18px;">
             I transform complex data into actionable insights that drive business decisions. Combining technical analytics expertise with strategic business understanding, I bridge the gap between data and meaningful outcomes. I'm seeking roles where I can leverage advanced analytics and AI to solve challenging business problems and create measurable impact.
         </p>
