@@ -53,12 +53,14 @@
 
 <div align="center">
   <h2>🌐 Personal Website 🌐</h2>
+  <p>🚧 Under Construction 🚧</p>
   <p>
     <a href="https://jbubb101.github.io/JaredsPortfolio/">
       <img src="https://img.shields.io/badge/Visit-Portfolio-%230A66C2?style=for-the-badge&logo=github" alt="Visit Jared's Portfolio">
     </a>
   </p>
 </div>
+
 
 <a id="education"></a>
 ## 🏆 Education and Awards 
