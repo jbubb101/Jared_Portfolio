@@ -159,16 +159,17 @@
 <a id="latin-honors"></a>
 ## 🎓 Daniels Distinction & Latin Honors
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/jbubb101/Latin_Honors_dataset_1">
     <img src="https://img.shields.io/badge/View_Latin_Honors_Repository-4A90E2?style=for-the-badge&logo=github" alt="Latin Honors Repository">
   </a>
-</div>
+</div> -->
+
 
 ### Daniels Distinction
 The Daniels Distinction & Latin Honors program recognizes undergraduate students at the Daniels College of Business who a achieve a GPA at or above 3.85, complete an application, meet with a faculty advisor, and create a research portfolio
 
-### Distinguished Projects
+### Distinguished Project
 <details>
   <summary><strong>Latin Honors Portfolio</strong></summary>
   
